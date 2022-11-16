@@ -5,7 +5,7 @@
 
 ## Integrantes:
 - Fuentes Claudio
-- Valdez
+- Valdez Cristian
 
 ## Materias involucradas
 
