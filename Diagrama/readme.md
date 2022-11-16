@@ -1,7 +1,39 @@
+# Rascador de gatos
+## _Proyecto Final_
 
-## Rascador de Gatos ##
+[![N|Solid](https://ites.edu.ar/static/media/carreras_desarrollo.b8ce5469.png)](https://ites.edu.ar/)
 
-Trabajo Para la Materia de Micorcontroladores II
-Profesor: Giles Alejo
+## Integrantes:
+- Fuentes Claudio
+- Valdez
 
-[Diagrama](https://viewer.diagrams.net/?tags=%7B%7D&highlight=0000ff&layers=1&nav=1&title=Diagrama%20sin%20t%C3%ADtulo.drawio#R7Vpfc5s4EP80fowHJMDw6H%2FtTafppOe7Xu%2FeZJCBVkauLMd2Pv0JEAYBJnYNdic1mUmk1WoR%2B9tdaTfqwfFy956hVfBIPUx6QPN2PTjpATCwgfgdE%2FYpwdAlwWehl5L0nDALX7AkapK6CT28Vhg5pYSHK5Xo0ijCLldoiDG6VdkWlKhvXSEfVwgzF5Eq9Z%2FQ40FKtcEgp%2F%2BBQz%2FI3qxbTjqyRBmz%2FJJ1gDy6LZDgtAfHjFKetpa7MSax7jK9pPPeHRk9LIzhiJ8ywfnwMnLGz5%2FtwN4aw7HnIZM%2FSCnPiGzkB8vF8n2mAUY3kYdjIVoPjrZByPFshdx4dCsgF7SAL4no6aK5CAkZU0JZMhcuzPgnptOIF%2BjpI%2Bhrzuh3XBixkkeMVD8vWytmHO8KJPm57zFdYs72gkWOQlOqXtqebsj%2BNkdSz3iCAorAkUQkrcc%2FyM4VLBpSx%2Bfou6pf7AmDk13KeEB9GiEyzakjFYGc5yOlK6n3b5jzvfQetOFURQXvQv5VTo%2Fb%2F8btPjBld7IrjE32WScSH%2Fw1kxB30mlm1s2nJb1sXgy1XIluNAG5phvm4gZlSV1xxHzMG%2FjMlC9WZKNZMEwQD59Vz24dYtCxSy0WwHXrXMez5pbZlutYJdcZVF0H1HkO6Mpz4FtQqzH41dQqXPQGAakcI3421tQHNgPYzZFNdJ4wC4UGMZO0o%2BC%2BGn2stqOPnPpEQ7GUg%2Bkc9iRpOsA0%2B6YqJF2qnFc8CZRElZ07FqVBJ38sVW4aqCtyh4yhfYFtFTOsj38B1CuvbV5mmV%2FXGvmBYzbxi0a64txZDuj8vP8YNWHJIlzauOJY1o8NzQYe1on1DwWD7qx2iQFm46Lly7%2BJoHlGeAxdRjOqWO28zClo6VszcsmzRZTiqiOq0S6iES6FRklCJPQj0XWFe8Q%2BM4pjXiiOyUM5sAw9L4kNdWFXjRcEzTEZIfe7n9ALoXZiTu1J45nhjB3siDUUQ61VE2phV5HWPGcD01%2FfwE5QYzHMOtU9T58jHYPq6XyRPHV7oaZZ0%2BG7dgDSBypAtafzus2wM4SsO0LNCDm3RmhwR6gRIWCYN0bIvnw%2FNI7sh4%2BUCx0CbTx%2Bc%2Ftd2cjaMA37hOKHdk3TcCqmMcPROoH0b8LRrP828Gvp%2FKLbJwTfq%2BKXHaAUANmzOJFq0jXv8OXwldO1msjsXBW9EwooOPKGcc081jxB63XoqvCpim09ie9ntUqZxqdS20njWys2yiPIq%2Bl%2BAee6EnNGu7AqAO1yTl2ynyO5e0WQAUuCtJKgI8WFs4sARuk9VnNSD0Ej%2F8VJ%2FXCKoLYb%2FPf0I4SfHvy%2Fxp%2Bpft5%2FRX7HY%2BY1E4FahMAdoUaE4DWT6VqEzqrX%2F44I2bdGqIXS5bFU7aNAFWh%2F0m%2F0nqqdn6rVhteujvq1plGtVaaIDl825G1A11GWVht3rwpdtYiZQvcFMw%2FfsWtI0eoiclcpWi10J1Q3z8vQLs3IHrS%2Bll0SSWdat87Jms7rv2hOdvg%2F5sU5mXVaTtZWGlRXy72pPZYrBLbxyhWmm1gjuFtjUdCl1wSgek2gm4y%2FWpu%2B0NS7vOGiNxp99wYO7wZ%2BXrgV3fyeb8qeX5aG0%2F8B)
+## Materias involucradas
+
+- 	Microcontroladores 2 (Giles Alejo)
+- 	Automatismos (Nicolás Gonzalez)
+## Repositorio
+
+[Github](https://github.com/ludotec/rascadorGatos) 
+
+## Objetivo
+Casa rascadora y recolectora de pelos de gatos. Rascador + Casita.
+¿Qué necesidades cubre esta solución? ¿Qué soluciona?
+La solución cubre, en parte, la necesidad de evitar, en este caso el felino doméstico (gato), que los pelos, que suelta de su cuerpo queden diseminados por todos los lugares por donde frecuenta dentro de la casa.
+A pesar de no lograr dar solución completa a ésta necesidad, se estima que puede ser un dispositivo útil. 
+
+## Detalle de Componentes (Partes involucradas) (BOM Listado de Materiales)
+[(Artículo en Mercado Libre)](https://articulo.mercadolibre.com.ar/MLA-1117400769-kit-rueda-goma-reforzada-x-1-motor-dc-x-1-arduino-robot-_JM#position=1&search_layout=grid&type=item&tracking_id=3bcd98ec-033f-4c57-b730-e3c753356b53)
+
+[(Artículo en Mercado Libre)](https://http2.mlstatic.com/D_NQ_NP_2X_941005-MLA48687765989_122021-F.webp)
+
+[(Artículo en Mercado Libre)](https://articulo.mercadolibre.com.ar/MLA-796291505-mg946r-servo-motor-13kg-de-torque-analogico-peso-55g-arduino-_JM#position=21&search_layout=stack&type=item&tracking_id=41a53a0c-7dd9-496f-b07a-8047530357fb )
+
+## Esquema de Conexiones
+[Diagrama de bloques](https://viewer.diagrams.net/index.html?tags=%7B%7D&highlight=0000ff&edit=_blank&layers=1&nav=1#G1ODBJNGU0AkzFuhb3Jwiyq83-Gv0gccjW)
+
+## Funcionalidades
+
+
+El dispositivo “rascador” es un cilindro el cuál lleva adherido un tela que hará la función de recolectar los pelos del gato al rozarse sobre éste. Éste cilindro deberá empezar a girar cuando detecte un objeto cercano a él, lo hará en un sentido y en otro alternando entre cada comienzo. Cómo sensor de presencia su usa un ultrasonido que es configurado de manera tal que cuando detecte algo se centre al medio (90°) y luego de un tiempo determinado que no detecta ningún objeto cerca hará un “barrido” de 180° comenzando desde los 90° hasta el 0° y de ahí a los 180°, volviendo a su posición original. Si en el transcurso de teste “barrido” detecta el sensor ultrasonido algún objeto automáticamente se posicionará en su punto medio. Todo este movimiento el ultrasonidos lo logra gracias a estar montado sobre un servomotor.
+Además de lo visto hasta ahora tendrá una señal lumínica proporcionada por un led RGB que se pondrá en rojo cuando el ultrasonido detecte un objeto cerca y alternará entre verde y azul cuando el servomotor realice el barrido de 180°. 
+
