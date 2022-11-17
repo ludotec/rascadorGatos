@@ -31,7 +31,7 @@ A pesar de no lograr dar solución completa a ésta necesidad, se estima que pue
 ## Esquema de Conexiones
 [Diagrama de bloques](https://viewer.diagrams.net/?tags=%7B%7D&highlight=0000ff&edit=_blank&layers=1&nav=1&title=Diagrama%20sin%20t%C3%ADtulo.drawio#Uhttps%3A%2F%2Fraw.githubusercontent.com%2Fludotec%2FrascadorGatos%2Fmain%2FDiagrama%2FDiagrama%2520sin%2520t%25C3%25ADtulo.drawio)
 
-## Funcionalidades
+## Funcionalidades 
 
 
 El dispositivo “rascador” es un cilindro el cuál lleva adherido un tela que hará la función de recolectar los pelos del gato al rozarse sobre éste. Éste cilindro deberá empezar a girar cuando detecte un objeto cercano a él, lo hará en un sentido y en otro alternando entre cada comienzo. Cómo sensor de presencia su usa un ultrasonido que es configurado de manera tal que cuando detecte algo se centre al medio (90°) y luego de un tiempo determinado que no detecta ningún objeto cerca hará un “barrido” de 180° comenzando desde los 90° hasta el 0° y de ahí a los 180°, volviendo a su posición original. Si en el transcurso de teste “barrido” detecta el sensor ultrasonido algún objeto automáticamente se posicionará en su punto medio. Todo este movimiento el ultrasonidos lo logra gracias a estar montado sobre un servomotor.
