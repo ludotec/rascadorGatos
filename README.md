@@ -29,7 +29,7 @@ A pesar de no lograr dar solución completa a ésta necesidad, se estima que pue
 [(Artículo en Mercado Libre)](https://articulo.mercadolibre.com.ar/MLA-796291505-mg946r-servo-motor-13kg-de-torque-analogico-peso-55g-arduino-_JM#position=21&search_layout=stack&type=item&tracking_id=41a53a0c-7dd9-496f-b07a-8047530357fb )
 
 ## Esquema de Conexiones
-[Diagrama de bloques](https://viewer.diagrams.net/index.html?tags=%7B%7D&highlight=0000ff&edit=_blank&layers=1&nav=1#G1ODBJNGU0AkzFuhb3Jwiyq83-Gv0gccjW)
+[Diagrama de bloques](https://viewer.diagrams.net/?tags=%7B%7D&target=blank&highlight=0000ff&edit=_blank&layers=1&nav=1&title=Diagrama%20sin%20t%C3%ADtulo.drawio#Uhttps%3A%2F%2Fraw.githubusercontent.com%2Fludotec%2FrascadorGatos%2Fmain%2FDiagrama%2FDiagrama%2520sin%2520t%25C3%25ADtulo.drawio)
 
 ## Funcionalidades
 
